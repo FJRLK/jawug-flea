@@ -1,0 +1,1730 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="block/style.css">
+</head>
+<body>
+<b><center>Jawug Client's</center></b><br><br><table><tr><th><b>#</b></th><th><a href="client.php?order_by=mac&sorting=asc"><b>MAC</b></th><th><a href="client.php?order_by=identity&sorting=asc"><b>Identity</b></th><th><a href="client.php?order_by=ssid&sorting=asc"><b>SSID</b></th><th><a href="client.php?order_by=user&sorting=asc"><b>User</b></th><th><a href="client.php?order_by=wlanip&sorting=asc"><b>WLAN</b></th><th><a href="client.php?order_by=lanip&sorting=asc"><b>LAN</b></th><th><a href="client.php?order_by=frequency&sorting=asc"><b>Frequency</b></th><th><a href="client.php?order_by=protocol&sorting=asc"><b>Protocol</b></th><th><a href="client.php?order_by=txccq&sorting=asc"><b>TXCCQ</b></th><th><a href="client.php?order_by=rxccq&sorting=asc"><b>RXCCQ</b></th><th><a href="client.php?order_by=rosver&sorting=asc"><b>ROS</b></th><th><a href="client.php?order_by=model&sorting=asc"><b>Model</b></th><th><a href="client.php?order_by=updatever&sorting=asc"><b>Update Ver</b></th><th><a href="client.php?order_by=dateupdate&sorting=asc"><b>Date/Time</b></th><th><a href="client.php?order_by=comment&sorting=asc"><b>Comment</b></th><th><a href="client.php?order_by=id&sorting=asc"><b>ID</b></th><th><a href="client.php?order_by=plot_location&sorting=asc"><b>Location Name</b></th></tr>
+<tr>
+
+<td><b>1</b></td>
+<td>00:21:A4:35:07:78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:41</font></td>
+<td></font></td>
+<td>514</font></td>
+<td>cAtilre(HS)</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>2</b></td>
+<td>00:15:61:10:55:83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-20 12:00:34</font></td>
+<td></font></td>
+<td>526</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>3</b></td>
+<td>D4:CA:6D:14:46:21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:58</font></td>
+<td></font></td>
+<td>530</font></td>
+<td>(EM) EdenMall</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>4</b></td>
+<td>00:21:A4:35:0A:BA</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:40</font></td>
+<td></font></td>
+<td>533</font></td>
+<td>(BJU) ZS6BJU</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>5</b></td>
+<td>00:21:A4:35:0A:99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:53</font></td>
+<td></font></td>
+<td>534</font></td>
+<td>(BJU) ZS6BJU</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>6</b></td>
+<td>00:0C:42:65:31:E5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB433UAH</font></td>
+<td>50</font></td>
+<td>2014-07-20 08:01:18</font></td>
+<td></font></td>
+<td>316</font></td>
+<td>Toby</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>7</b></td>
+<td>00:0C:42:84:58:43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB SXT-5D</font></td>
+<td>0</font></td>
+<td>2014-07-28 16:00:18</font></td>
+<td></font></td>
+<td>209</font></td>
+<td>Moerbei nest</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>8</b></td>
+<td>00:0C:42:31:4E:4A</td>
+<td>AEL Exchange</td>
+<td>www.jawug.za.net/AEL_SW</td>
+<td>Jawug_Jaykay</td>
+<td>172.16.254.218</td>
+<td>172.16.111.32/29</td>
+<td>2484</td>
+<td>nv2</td>
+ <td>95</td> <td>99</td> <td>5.25</td><td>RB411</font></td>
+<td>0</font></td>
+<td>2014-07-28 16:00:46</font></td>
+<td></font></td>
+<td>98</font></td>
+<td>Jaykay</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>9</b></td>
+<td>00:0C:42:39:0E:5D</td>
+<td>AEL Exchange</td>
+<td>www.jawug.za.net/AEL_SW</td>
+<td>JawugMAMI</td>
+<td>172.16.254.221</td>
+<td>NAT</td>
+<td>2484</td>
+<td>nv2</td>
+ <td>99</td> <td bgcolor='#FFFF00'>75</td> <td>5.25</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:00</font></td>
+<td></font></td>
+<td>136</font></td>
+<td>XarionWorkNew</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>10</b></td>
+<td>00:0C:42:60:A9:06</td>
+<td>AEL Exchange</td>
+<td>www.jawug.za.net/CATAELBB</td>
+<td>000C4260A906</td>
+<td>172.16.254.226</td>
+<td>BGP Peer</td>
+<td>5825</td>
+<td>nv2-nstreme-802.11</td>
+ <td>92</td> <td>84</td> <td>6.4</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:13</font></td>
+<td>CW: 20mhz</font></td>
+<td>472</font></td>
+<td>cAtilre(HS)</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>11</b></td>
+<td>00:0C:42:6E:07:47</td>
+<td>ApolloRB</td>
+<td>www.jawug.za.net/apollo1</td>
+<td>RaceDriver</td>
+<td>172.16.253.66</td>
+<td>BGP Peer</td>
+<td>2452</td>
+<td>nv2</td>
+ <td>98</td> <td>98</td> <td>6.11</td><td>RB433UAH</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:01</font></td>
+<td></font></td>
+<td>399</font></td>
+<td>RaceDriver</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>12</b></td>
+<td>D4:CA:6D:10:74:38</td>
+<td>Ashbird2</td>
+<td>www.jawug.za.net/Gizmo</td>
+<td>DieVermeulens.ja</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5200</td>
+<td>802.11</td>
+ <td>86</td> <td>81</td> <td bgcolor='#FFFF00'>5.11</td><td>RB433L</font></td>
+<td>0</font></td>
+<td>2014-07-23 00:00:21</font></td>
+<td></font></td>
+<td>200</font></td>
+<td>DieVermeulens</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>13</b></td>
+<td>00:0C:42:63:B3:69</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BJU2</td>
+<td>defysagacity</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5620</td>
+<td>802.11</td>
+ <td>96</td> <td>100</td> <td bgcolor='#FFFF00'>5.14</td><td></font></td>
+<td></font></td>
+<td>2014-07-26 04:01:06</font></td>
+<td></font></td>
+<td>7</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>14</b></td>
+<td>00:21:A4:30:25:D9</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BJUBBTF</td>
+<td>BJUBBTF</td>
+<td>172.16.255.89</td>
+<td>BGP Peer</td>
+<td>5700</td>
+<td>nv2</td>
+ <td>99</td> <td>84</td> <td>6.4</td><td>RB600A</font></td>
+<td>0</font></td>
+<td>2014-07-26 09:00:30</font></td>
+<td>CW: 20mhz</font></td>
+<td>9</font></td>
+<td>(TF) The Forum</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>15</b></td>
+<td>D4:CA:6D:0D:28:A1</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BPBJUBB</td>
+<td>BryanPark</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5660</td>
+<td>any</td>
+ <td bgcolor='#FFFF00'>65</td> <td>86</td> <td>6.17</td><td></font></td>
+<td></font></td>
+<td>2014-07-26 09:00:43</font></td>
+<td></font></td>
+<td>504</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>16</b></td>
+<td>D4:CA:6D:11:DE:D7</td>
+<td>BryanPark1</td>
+<td>www.jawug.za.net/BP1</td>
+<td>DarkHelmet</td>
+<td>172.16.252.149</td>
+<td>NAT</td>
+<td>5560</td>
+<td>802.11</td>
+ <td bgcolor='#FFFF00'>64</td> <td bgcolor='#FF0000'>31</td> <td>6.10</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:36</font></td>
+<td></font></td>
+<td>338</font></td>
+<td>DarkHelmet</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>17</b></td>
+<td>00:0C:42:60:C0:A8</td>
+<td>BryanPark1</td>
+<td>www.jawug.za.net/BP1</td>
+<td>JawugScott</td>
+<td>172.16.252.148</td>
+<td>172.16.16.88/29</td>
+<td>5560</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>57</td> <td bgcolor='#FF0000'>27</td> <td>6.10</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:42</font></td>
+<td></font></td>
+<td>101</font></td>
+<td>home(scott)</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>18</b></td>
+<td>00:0B:6B:35:36:52</td>
+<td>BryanPark1</td>
+<td>www.jawug.za.net/BP1</td>
+<td>SynthDark2</td>
+<td>172.16.252.166</td>
+<td>BGP Peer</td>
+<td>5560</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>51</td> <td>0</td> <td>6.5</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:36</font></td>
+<td></font></td>
+<td>190</font></td>
+<td>SynthDark</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>19</b></td>
+<td>00:21:A4:30:0A:36</td>
+<td>cAtilre1</td>
+<td>www.jawug.org.za/CATVITBB</td>
+<td>Jawug-Vitchie-wlan1</td>
+<td>172.16.26.114</td>
+<td>BGP Peer</td>
+<td>5580</td>
+<td>nv2</td>
+ <td>81</td> <td bgcolor='#FF0000'>53</td> <td>6.10</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:44</font></td>
+<td>CW: 20mhz</font></td>
+<td>340</font></td>
+<td>Vitchie-NorthwoldTower</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>20</b></td>
+<td>00:0C:42:61:DD:F9</td>
+<td>cAtilre2</td>
+<td>www.jawug.za.net/cAtilre</td>
+<td>cAtilre</td>
+<td>172.16.252.233</td>
+<td>172.16.24.104/29</td>
+<td>2467</td>
+<td>nv2</td>
+ <td>0</td> <td bgcolor='#FF0000'>56</td> <td>6.1</td><td>RB411</font></td>
+<td>45</font></td>
+<td>2014-07-28 16:00:26</font></td>
+<td></font></td>
+<td>337</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>21</b></td>
+<td>00:0C:42:0C:D2:1C</td>
+<td>DV</td>
+<td>www.jawug.za.net/DVSNIBB</td>
+<td>JawugDavidDS</td>
+<td>172.16.254.36</td>
+<td>BGP Peer</td>
+<td>5280</td>
+<td>802.11</td>
+ <td>95</td> <td>97</td> <td>6.0</td><td>RB532</font></td>
+<td>50</font></td>
+<td>2014-07-25 03:00:31</font></td>
+<td>CW: 20mhz</font></td>
+<td>164</font></td>
+<td>SunnyridgeDavidDS</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>22</b></td>
+<td>00:0B:6B:37:68:1B</td>
+<td>DV</td>
+<td>www.jawug.za.net/Eden</td>
+<td>JawugDaffy</td>
+<td>172.16.254.4</td>
+<td>BGP Peer</td>
+<td>2484</td>
+<td>802.11</td>
+ <td>89</td> <td>0</td> <td>5.22</td><td>RB532</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:01:21</font></td>
+<td></font></td>
+<td>145</font></td>
+<td>daffy</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>23</b></td>
+<td>D4:CA:6D:11:8A:DF</td>
+<td>DV</td>
+<td>www.jawug.za.net/EdenA</td>
+<td>JawugPeanut</td>
+<td>172.16.254.149</td>
+<td>172.16.15.64/27</td>
+<td>5580</td>
+<td>802.11</td>
+ <td>92</td> <td>92</td> <td>6.6</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:22</font></td>
+<td></font></td>
+<td>327</font></td>
+<td>peanutBedford</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>24</b></td>
+<td>00:0C:42:39:57:03</td>
+<td>EM</td>
+<td>www.jawug.za.net/EMAELBB</td>
+<td>JawugAEL_EM</td>
+<td>172.16.254.254</td>
+<td>BGP Peer</td>
+<td>5680</td>
+<td>nv2</td>
+ <td>87</td> <td>85</td> <td>6.4</td><td>RB433</font></td>
+<td>0</font></td>
+<td>2014-07-28 16:01:38</font></td>
+<td>CW: 20mhz</font></td>
+<td>88</font></td>
+<td>(AEL) Exchange HS</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>25</b></td>
+<td>00:0C:42:65:0A:DB</td>
+<td>EM2</td>
+<td>www.jawug.za.net/EM_SectorNW</td>
+<td>Boogieman</td>
+<td>172.16.252.252</td>
+<td>172.16.111.56/29</td>
+<td>5260</td>
+<td>nv2-nstreme-802.11</td>
+ <td bgcolor='#FF0000'>41</td> <td bgcolor='#FF0000'>43</td> <td>6.12</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:16</font></td>
+<td></font></td>
+<td>44</font></td>
+<td>BoogieMan</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>26</b></td>
+<td>00:16:EA:BA:B7:80</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>9</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-10 03:01:38</font></td>
+<td></font></td>
+<td>527</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>27</b></td>
+<td>00:15:6D:7C:50:80</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td>jawug.dpoet</td>
+<td>172.16.97.6</td>
+<td>172.16.101.112/28</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FFFF00'>65</td> <td>96</td> <td bgcolor='#FF0000'>3.2</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:01:13</font></td>
+<td></font></td>
+<td>432</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>28</b></td>
+<td>00:19:7E:3F:4C:43</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>6</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-02 15:01:12</font></td>
+<td></font></td>
+<td>470</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>29</b></td>
+<td>D4:CA:6D:13:B4:20</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/SCUFRAGbb</td>
+<td>jawug.scully</td>
+<td>172.16.97.18</td>
+<td>BGP Peer</td>
+<td>5580</td>
+<td>unspecified</td>
+ <td>99</td> <td>97</td> <td>6.11</td><td>RB433AH</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:27</font></td>
+<td>CW: 20mhz</font></td>
+<td>500</font></td>
+<td>(SCU) Scully</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>30</b></td>
+<td>00:0C:42:60:38:EA</td>
+<td>fragtion-rpc</td>
+<td>www.jawug.org.za/BTFRAGbb</td>
+<td>ptawug.biotite</td>
+<td>172.16.97.2</td>
+<td>BGP Peer</td>
+<td>5850</td>
+<td>nv2</td>
+ <td bgcolor='#FFFF00'>75</td> <td bgcolor='#FFFF00'>62</td> <td>6.7</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:00:32</font></td>
+<td>CW: 40mhz-turbo</font></td>
+<td>139</font></td>
+<td>-BiotiteHighsite(BT)</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>31</b></td>
+<td>00:0C:42:64:75:F3</td>
+<td>fragtion-rpc</td>
+<td>www.jawug.org.za/FRAGCTbb</td>
+<td>jawug.cybert</td>
+<td>172.16.97.10</td>
+<td>BGP Peer</td>
+<td>5640</td>
+<td>unspecified</td>
+ <td bgcolor='#FFFF00'>74</td> <td bgcolor='#FF0000'>57</td> <td>6.10</td><td>x86</font></td>
+<td>48</font></td>
+<td>2014-07-28 16:00:27</font></td>
+<td></font></td>
+<td>129</font></td>
+<td>CyberT</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>32</b></td>
+<td>D4:CA:6D:10:26:BD</td>
+<td>fragtion-rpc</td>
+<td>www.jawug.org.za/fragtion1</td>
+<td>jawug.postman</td>
+<td>172.16.98.4</td>
+<td>172.16.100.80/28</td>
+<td>5500</td>
+<td>802.11</td>
+ <td>94</td> <td>99</td> <td>6.7</td><td>RB411L</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:22</font></td>
+<td></font></td>
+<td>115</font></td>
+<td>Postman</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>33</b></td>
+<td>B4:F0:AB:F1:4E:14</td>
+<td>fragtion-rpc</td>
+<td>www.jawug.org.za/fragtion1</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5500</td>
+<td>802.11</td>
+ <td>80</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-24 07:01:10</font></td>
+<td></font></td>
+<td>493</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>34</b></td>
+<td>00:0C:42:6C:9D:4B</td>
+<td>GC1</td>
+<td>www.jawug.org.za/GC_NW</td>
+<td>ManhattanGC</td>
+<td>172.16.41.18</td>
+<td>NAT</td>
+<td>5300</td>
+<td>nv2-nstreme-802.11</td>
+ <td>0</td> <td bgcolor='#FF0000'>9</td> <td>6.10</td><td>RB411</font></td>
+<td>50</font></td>
+<td>2014-07-26 19:01:25</font></td>
+<td></font></td>
+<td>182</font></td>
+<td>Manhattan</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>35</b></td>
+<td>D4:CA:6D:0F:2B:C1</td>
+<td>GC_Sectors</td>
+<td>www.jawug.org.za/GC_NW</td>
+<td>nobbie-9fh</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5300</td>
+<td>nv2-nstreme-802.11</td>
+ <td>89</td> <td bgcolor='#FF0000'>39</td> <td>6.15</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:00:36</font></td>
+<td></font></td>
+<td>528</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>36</b></td>
+<td>D4:CA:6D:10:5D:FA</td>
+<td>GC_Sectors</td>
+<td>www.jawug.org.za/GC_W</td>
+<td>Boober44B</td>
+<td>172.16.41.3</td>
+<td>172.16.42.32/28</td>
+<td>5600</td>
+<td>nv2-nstreme-802.11</td>
+ <td bgcolor='#FFFF00'>66</td> <td bgcolor='#FF0000'>39</td> <td>6.9</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:24</font></td>
+<td></font></td>
+<td>168</font></td>
+<td>boober44b</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>37</b></td>
+<td>70:1A:04:9B:14:DA</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2447</td>
+<td>802.11</td>
+ <td bgcolor='#FFFF00'>73</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-25 23:00:33</font></td>
+<td></font></td>
+<td>531</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>38</b></td>
+<td>00:25:AE:FF:19:86</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2447</td>
+<td>802.11</td>
+ <td>89</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-27 15:00:56</font></td>
+<td></font></td>
+<td>310</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>39</b></td>
+<td>D4:CA:6D:10:1C:60</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td>KeezA</td>
+<td>172.16.253.77</td>
+<td>172.16.4.104/29</td>
+<td>2447</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>56</td> <td>90</td> <td>6.13</td><td>RB411</font></td>
+<td>0</font></td>
+<td>2014-07-28 16:00:54</font></td>
+<td></font></td>
+<td>154</font></td>
+<td>KeezA</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>40</b></td>
+<td>A0:F4:19:38:20:27</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2447</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>15</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-26 14:00:34</font></td>
+<td></font></td>
+<td>226</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>41</b></td>
+<td>00:0C:42:6C:9D:66</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/Rilehmann</td>
+<td>www.jawug.org.za</td>
+<td>172.16.251.149</td>
+<td>NAT</td>
+<td>5180</td>
+<td>802.11</td>
+ <td>96</td> <td>96</td> <td>6.0</td><td>RB433GL</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:47</font></td>
+<td></font></td>
+<td>13</font></td>
+<td>RILehmann</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>42</b></td>
+<td>00:0C:42:6F:D6:35</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/Westernarea</td>
+<td>Xormac</td>
+<td>172.16.251.154</td>
+<td>NAT</td>
+<td>5500</td>
+<td>nv2</td>
+ <td bgcolor='#FFFF00'>61</td> <td>90</td> <td>5.26</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:40</font></td>
+<td></font></td>
+<td>153</font></td>
+<td>WayneXormac</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>43</b></td>
+<td>00:0C:42:66:6E:6C</td>
+<td>NashuaMobile</td>
+<td>www.jawug.org.za/AlexNMBB</td>
+<td>Alex</td>
+<td>172.16.252.210</td>
+<td>BGP Peer</td>
+<td>5500</td>
+<td>any</td>
+ <td bgcolor='#FF0000'>38</td> <td bgcolor='#FF0000'>40</td> <td>5.22</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:01:40</font></td>
+<td>CW: 20mhz</font></td>
+<td>67</font></td>
+<td>Alex</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>44</b></td>
+<td>D4:CA:6D:54:AE:E7</td>
+<td>Nivec</td>
+<td>www.jawug.org.za/NivecBPBB</td>
+<td>BryanPark</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5540</td>
+<td>any</td>
+ <td bgcolor='#FFFF00'>79</td> <td>100</td> <td>6.17</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:00:07</font></td>
+<td></font></td>
+<td>505</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>45</b></td>
+<td>00:0C:42:60:56:B2</td>
+<td>Randburg</td>
+<td>www.jawug.za.net/DN</td>
+<td>Speeddemon91</td>
+<td>172.16.252.5</td>
+<td>172.16.16.184/29</td>
+<td>5220</td>
+<td>nv2</td>
+ <td>99</td> <td bgcolor='#FFFF00'>78</td> <td>6.6</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-24 12:02:36</font></td>
+<td></font></td>
+<td>73</font></td>
+<td>221AndersonAve</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>46</b></td>
+<td>D4:CA:6D:0D:2E:8D</td>
+<td>Scully</td>
+<td>www.jawug.org.za/middle-sector</td>
+<td>Namret-5</td>
+<td>172.16.105.2</td>
+<td>172.16.106.96/28</td>
+<td>5320</td>
+<td>nv2</td>
+ <td bgcolor='#FF0000'>53</td> <td>94</td> <td>6.10</td><td>RB Metal 5SHPn</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:34</font></td>
+<td></font></td>
+<td>501</font></td>
+<td>Namret-Malanshof</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>47</b></td>
+<td>00:15:6D:64:61:3A</td>
+<td>Scully</td>
+<td>www.jawug.org.za/scullytopsect</td>
+<td>VampyreSCU</td>
+<td>172.16.105.35</td>
+<td>BGP Peer</td>
+<td>5180</td>
+<td>nv2</td>
+ <td>99</td> <td bgcolor='#FFFF00'>73</td> <td>6.10</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:33</font></td>
+<td></font></td>
+<td>122</font></td>
+<td>VampyreWWM</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>48</b></td>
+<td>00:0C:42:31:A6:EB</td>
+<td>Superkew</td>
+<td>www.jawug.za.net/superkew</td>
+<td>Abu</td>
+<td>172.16.252.171</td>
+<td>NAT</td>
+<td>5180</td>
+<td>nv2</td>
+ <td bgcolor='#FF0000'>22</td> <td bgcolor='#FF0000'>20</td> <td bgcolor='#FFFF00'>5.19</td><td>RB433AH</font></td>
+<td>34</font></td>
+<td>2014-07-28 12:00:28</font></td>
+<td></font></td>
+<td>174</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>49</b></td>
+<td>00:21:A4:35:07:96</td>
+<td>TheForum</td>
+<td>www.jawug.za.net/TFNRBB</td>
+<td>NorthRiding</td>
+<td>172.16.255.90</td>
+<td>BGP Peer</td>
+<td>5220</td>
+<td>any</td>
+ <td bgcolor='#FFFF00'>78</td> <td bgcolor='#FFFF00'>68</td> <td>6.10</td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:02:06</font></td>
+<td></font></td>
+<td>532</font></td>
+<td>(BJU) ZS6BJU</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>50</b></td>
+<td>00:0C:42:67:A6:86</td>
+<td>Toby</td>
+<td>www.jawug.za.net/ShadrackBBTob</td>
+<td>ShadrackBBToby</td>
+<td>172.16.26.141</td>
+<td>BGP Peer</td>
+<td>5180</td>
+<td>nv2-nstreme-802.11</td>
+ <td bgcolor='#FFFF00'>70</td> <td>80</td> <td>6.10</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:20</font></td>
+<td></font></td>
+<td>55</font></td>
+<td>Shadrack</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>51</b></td>
+<td>00:0C:42:6C:6F:C1</td>
+<td>Toby</td>
+<td>www.jawug.za.net/whityBBtoby</td>
+<td>tobyBBwhity</td>
+<td>172.16.96.41</td>
+<td>172.16.101.16/28</td>
+<td>5320</td>
+<td>802.11</td>
+ <td>90</td> <td>87</td> <td>6.5</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:56</font></td>
+<td>CW: 20/40mhz-ht-above</font></td>
+<td>152</font></td>
+<td>Whity</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>52</b></td>
+<td>C8:14:79:DF:44:3E</td>
+<td>Vampyre</td>
+<td>jawug.org.za/Vampyre03</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2412</td>
+<td>any</td>
+ <td>0</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-19 17:01:13</font></td>
+<td></font></td>
+<td>498</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>53</b></td>
+<td>D4:CA:6D:9D:4D:23</td>
+<td>VDV-JAWUG</td>
+<td>www.jawug.za.net/RBRIGGERBB</td>
+<td>Randburg</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5320</td>
+<td>any</td>
+ <td>84</td> <td>99</td> <td>6.12</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:00:40</font></td>
+<td></font></td>
+<td>529</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>54</b></td>
+<td>00:0C:42:67:9A:5C</td>
+<td>Wolfman2</td>
+<td>www.jawug.za.net/Lescwolmanbb</td>
+<td>000C42679A5C</td>
+<td>172.16.98.82</td>
+<td>NAT</td>
+<td>2467</td>
+<td>802.11</td>
+ <td>80</td> <td>92</td> <td>6.1</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-20 12:00:40</font></td>
+<td></font></td>
+<td>40</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>55</b></td>
+<td>D4:CA:6D:14:A2:73</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>NIM_B</td>
+<td>172.16.98.121</td>
+<td>172.16.103.96/28</td>
+<td>5260</td>
+<td>nv2</td>
+ <td>100</td> <td>86</td> <td bgcolor='#FFFF00'>5.11</td><td></font></td>
+<td></font></td>
+<td>2014-07-28 16:00:43</font></td>
+<td></font></td>
+<td>535</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>56</b></td>
+<td>00:0C:42:D3:33:A9</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>Jawug.Vic</td>
+<td>172.16.98.119</td>
+<td>NAT</td>
+<td>5260</td>
+<td>nv2</td>
+ <td bgcolor='#FF0000'>40</td> <td bgcolor='#FF0000'>37</td> <td>5.23</td><td>RB Groove 5Hn</font></td>
+<td>0</font></td>
+<td>2014-07-28 16:00:31</font></td>
+<td></font></td>
+<td>321</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>57</b></td>
+<td>D4:CA:6D:13:6A:1E</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>RayWM</td>
+<td>172.16.98.115</td>
+<td>172.16.101.80/28</td>
+<td>5260</td>
+<td>nv2</td>
+ <td>96</td> <td bgcolor='#FFFF00'>71</td> <td>5.25</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:45</font></td>
+<td></font></td>
+<td>346</font></td>
+<td>RayMuldersDrift1</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>58</b></td>
+<td>00:0C:42:6C:05:50</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>ShadBBWM12</td>
+<td>172.16.98.114</td>
+<td>BGP Peer</td>
+<td>5260</td>
+<td>nv2</td>
+ <td bgcolor='#FFFF00'>62</td> <td bgcolor='#FFFF00'>78</td> <td>5.26</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:01:32</font></td>
+<td></font></td>
+<td>385</font></td>
+<td>Shadrack</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>59</b></td>
+<td>00:0C:42:6C:58:18</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>Jawug.FrancoisH</td>
+<td>172.16.98.120</td>
+<td>NAT</td>
+<td>5260</td>
+<td>nv2</td>
+ <td>99</td> <td>85</td> <td bgcolor='#FFFF00'>5.14</td><td>RB433</font></td>
+<td>0</font></td>
+<td>2014-07-23 12:00:23</font></td>
+<td></font></td>
+<td>396</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>60</b></td>
+<td>00:0C:42:64:6B:3F</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>RayWM</td>
+<td>172.16.98.115</td>
+<td>172.16.101.80/28</td>
+<td>5260</td>
+<td>nv2</td>
+ <td>98</td> <td>81</td> <td>5.25</td><td>RB433L</font></td>
+<td>50</font></td>
+<td>2014-07-28 12:00:51</font></td>
+<td></font></td>
+<td>449</font></td>
+<td>RayMuldersDrift1</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>61</b></td>
+<td>00:0E:8E:1F:72:92</td>
+<td>Xarion</td>
+<td>www.jawug.za.net/Xarion</td>
+<td>JawugIvo</td>
+<td>172.16.254.178</td>
+<td>BGP Peer</td>
+<td>5200</td>
+<td>802.11</td>
+ <td bgcolor='#FFFF00'>71</td> <td bgcolor='#FFFF00'>65</td> <td>6.0</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-28 11:00:45</font></td>
+<td></font></td>
+<td>90</font></td>
+<td>Ivo</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>62</b></td>
+<td>00:21:A4:30:29:10</td>
+<td>Xarion</td>
+<td>www.jawug.za.net/XTFBB</td>
+<td>XTFBB</td>
+<td>172.16.255.98</td>
+<td>BGP Peer</td>
+<td>5180</td>
+<td>nv2</td>
+ <td bgcolor='#FF0000'>32</td> <td bgcolor='#FFFF00'>65</td> <td>6.4</td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:44</font></td>
+<td></font></td>
+<td>29</font></td>
+<td>(TF) The Forum</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>63</b></td>
+<td>00:0B:6B:37:19:9F</td>
+<td>Xarion2</td>
+<td>www.jawug.za.net/XEMBB</td>
+<td>JawugEMXBB</td>
+<td>172.16.254.138</td>
+<td>BGP Peer</td>
+<td>5180</td>
+<td>nv2</td>
+ <td bgcolor='#FFFF00'>72</td> <td>99</td> <td>6.12</td><td>RB600A</font></td>
+<td>50</font></td>
+<td>2014-07-28 16:00:45</font></td>
+<td>CW: 20mhz</font></td>
+<td>456</font></td>
+<td>(EM) EdenMall</font></td>
+</tr>
+
+</table>Designed by Russian & Silver June 2012
+<br><br><b><center>Jawug Client's Not seen in more than 2 days</center></b><br><br>
+<table>
+<tr>
+<th><b>#</b></font></th>
+<th><b>MAC</b></font></th>
+<th><b>Identity</b></font></th>
+<th><b>SSID</b></font></th>
+<th><b>User</b></font></th>
+<th><b>WLAN IP</b></font></th>
+<th><b>LAN IP</b></font></th>
+<th><b>Frequency</b></font></th>
+<th><b>Protocol</b></font></th>
+<th><b>TX CCQ</b></font></th>
+<th><b>RX CCQ</b></font></th>
+<th><b>ROS Ver</b></font></th>
+<th><b>Model</b></font></th>
+<th><b>Update Ver</b></font></th>
+<th><b>Date/Time</b></font></th>
+<th><b>Comment</b></font></th>
+<th><b>ID</b></font></th>
+<th><b>Location Name</b></font></th>
+</tr>
+
+
+<tr>
+
+<td><b>1</b></td>
+<td>B4:52:7E:0E:40:C2</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>38</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-06-19 22:01:32</font></td>
+<td></font></td>
+<td>523</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>2</b></td>
+<td>00:0C:42:66:47:05</td>
+<td>ApolloRB</td>
+<td>www.jawug.za.net/apollo2</td>
+<td>Vampyre</td>
+<td>172.16.253.86</td>
+<td>BGP Peer</td>
+<td>2417</td>
+<td>nv2</td>
+ <td>94</td> <td>92</td> <td>6.12</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-06-20 08:00:30</font></td>
+<td></font></td>
+<td>53</font></td>
+<td>VampyreWWM</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>3</b></td>
+<td>00:0C:42:1B:98:64</td>
+<td>RaceDriver</td>
+<td>www.jawug.za.net/racedriver</td>
+<td>Narruto</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2412</td>
+<td>802.11</td>
+ <td>95</td> <td>99</td> <td>6.11</td><td></font></td>
+<td></font></td>
+<td>2014-06-20 08:01:08</font></td>
+<td>CW: 20mhz</font></td>
+<td>508</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>4</b></td>
+<td>00:26:68:14:35:58</td>
+<td>Vampyre</td>
+<td>jawug.org.za/Vampyre03</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2412</td>
+<td>any</td>
+ <td bgcolor='#FF0000'>26</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-06-22 20:00:22</font></td>
+<td></font></td>
+<td>524</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>5</b></td>
+<td>F8:D0:BD:80:EF:32</td>
+<td>Vampyre</td>
+<td>jawug.org.za/Vampyre03</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2412</td>
+<td>any</td>
+ <td bgcolor='#FF0000'>13</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-06-24 22:01:20</font></td>
+<td></font></td>
+<td>525</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>6</b></td>
+<td>00:19:7E:3F:4C:43</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>6</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-02 15:01:12</font></td>
+<td></font></td>
+<td>470</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>7</b></td>
+<td>00:16:EA:BA:B7:80</td>
+<td>fragtion-rb433-a</td>
+<td>www.jawug.org.za/fragtion2</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2472</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>9</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-10 03:01:38</font></td>
+<td></font></td>
+<td>527</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>8</b></td>
+<td>C8:14:79:DF:44:3E</td>
+<td>Vampyre</td>
+<td>jawug.org.za/Vampyre03</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2412</td>
+<td>any</td>
+ <td>0</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-19 17:01:13</font></td>
+<td></font></td>
+<td>498</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>9</b></td>
+<td>00:0C:42:65:31:E5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB433UAH</font></td>
+<td>50</font></td>
+<td>2014-07-20 08:01:18</font></td>
+<td></font></td>
+<td>316</font></td>
+<td>Toby</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>10</b></td>
+<td>00:15:61:10:55:83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+ <td>0</td> <td>0</td> <td></td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-20 12:00:34</font></td>
+<td></font></td>
+<td>526</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>11</b></td>
+<td>00:0C:42:67:9A:5C</td>
+<td>Wolfman2</td>
+<td>www.jawug.za.net/Lescwolmanbb</td>
+<td>000C42679A5C</td>
+<td>172.16.98.82</td>
+<td>NAT</td>
+<td>2467</td>
+<td>802.11</td>
+ <td>80</td> <td>92</td> <td>6.1</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-20 12:00:40</font></td>
+<td></font></td>
+<td>40</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>12</b></td>
+<td>D4:CA:6D:10:74:38</td>
+<td>Ashbird2</td>
+<td>www.jawug.za.net/Gizmo</td>
+<td>DieVermeulens.ja</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5200</td>
+<td>802.11</td>
+ <td>86</td> <td>81</td> <td bgcolor='#FFFF00'>5.11</td><td>RB433L</font></td>
+<td>0</font></td>
+<td>2014-07-23 00:00:21</font></td>
+<td></font></td>
+<td>200</font></td>
+<td>DieVermeulens</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>13</b></td>
+<td>00:0C:42:6C:58:18</td>
+<td>Wolfman435</td>
+<td>www.jawug.za.net/WM12Sect120NE</td>
+<td>Jawug.FrancoisH</td>
+<td>172.16.98.120</td>
+<td>NAT</td>
+<td>5260</td>
+<td>nv2</td>
+ <td>99</td> <td>85</td> <td bgcolor='#FFFF00'>5.14</td><td>RB433</font></td>
+<td>0</font></td>
+<td>2014-07-23 12:00:23</font></td>
+<td></font></td>
+<td>396</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>14</b></td>
+<td>B4:F0:AB:F1:4E:14</td>
+<td>fragtion-rpc</td>
+<td>www.jawug.org.za/fragtion1</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5500</td>
+<td>802.11</td>
+ <td>80</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-24 07:01:10</font></td>
+<td></font></td>
+<td>493</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>15</b></td>
+<td>00:0C:42:60:56:B2</td>
+<td>Randburg</td>
+<td>www.jawug.za.net/DN</td>
+<td>Speeddemon91</td>
+<td>172.16.252.5</td>
+<td>172.16.16.184/29</td>
+<td>5220</td>
+<td>nv2</td>
+ <td>99</td> <td bgcolor='#FFFF00'>78</td> <td>6.6</td><td>RB433</font></td>
+<td>50</font></td>
+<td>2014-07-24 12:02:36</font></td>
+<td></font></td>
+<td>73</font></td>
+<td>221AndersonAve</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>16</b></td>
+<td>00:0C:42:0C:D2:1C</td>
+<td>DV</td>
+<td>www.jawug.za.net/DVSNIBB</td>
+<td>JawugDavidDS</td>
+<td>172.16.254.36</td>
+<td>BGP Peer</td>
+<td>5280</td>
+<td>802.11</td>
+ <td>95</td> <td>97</td> <td>6.0</td><td>RB532</font></td>
+<td>50</font></td>
+<td>2014-07-25 03:00:31</font></td>
+<td>CW: 20mhz</font></td>
+<td>164</font></td>
+<td>SunnyridgeDavidDS</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>17</b></td>
+<td>70:1A:04:9B:14:DA</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2447</td>
+<td>802.11</td>
+ <td bgcolor='#FFFF00'>73</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-25 23:00:33</font></td>
+<td></font></td>
+<td>531</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>18</b></td>
+<td>00:0C:42:63:B3:69</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BJU2</td>
+<td>defysagacity</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5620</td>
+<td>802.11</td>
+ <td>96</td> <td>100</td> <td bgcolor='#FFFF00'>5.14</td><td></font></td>
+<td></font></td>
+<td>2014-07-26 04:01:06</font></td>
+<td></font></td>
+<td>7</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>19</b></td>
+<td>00:21:A4:30:25:D9</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BJUBBTF</td>
+<td>BJUBBTF</td>
+<td>172.16.255.89</td>
+<td>BGP Peer</td>
+<td>5700</td>
+<td>nv2</td>
+ <td>99</td> <td>84</td> <td>6.4</td><td>RB600A</font></td>
+<td>0</font></td>
+<td>2014-07-26 09:00:30</font></td>
+<td>CW: 20mhz</font></td>
+<td>9</font></td>
+<td>(TF) The Forum</font></td>
+</tr>
+
+
+<tr>
+
+<td><b>20</b></td>
+<td>D4:CA:6D:0D:28:A1</td>
+<td>BJU</td>
+<td>www.jawug.za.net/BPBJUBB</td>
+<td>BryanPark</td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>5660</td>
+<td>any</td>
+ <td bgcolor='#FFFF00'>65</td> <td>86</td> <td>6.17</td><td></font></td>
+<td></font></td>
+<td>2014-07-26 09:00:43</font></td>
+<td></font></td>
+<td>504</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>21</b></td>
+<td>A0:F4:19:38:20:27</td>
+<td>LlewellynRB1</td>
+<td>www.jawug.za.net/KeezA</td>
+<td></td>
+<td>0.0.0.0</td>
+<td>NAT</td>
+<td>2447</td>
+<td>802.11</td>
+ <td bgcolor='#FF0000'>15</td> <td>0</td> <td></td><td></font></td>
+<td></font></td>
+<td>2014-07-26 14:00:34</font></td>
+<td></font></td>
+<td>226</font></td>
+<td></font></td>
+</tr>
+
+
+<tr>
+
+<td><b>22</b></td>
+<td>00:0C:42:6C:9D:4B</td>
+<td>GC1</td>
+<td>www.jawug.org.za/GC_NW</td>
+<td>ManhattanGC</td>
+<td>172.16.41.18</td>
+<td>NAT</td>
+<td>5300</td>
+<td>nv2-nstreme-802.11</td>
+ <td>0</td> <td bgcolor='#FF0000'>9</td> <td>6.10</td><td>RB411</font></td>
+<td>50</font></td>
+<td>2014-07-26 19:01:25</font></td>
+<td></font></td>
+<td>182</font></td>
+<td>Manhattan</font></td>
+</tr>
+
+</table>Designed by Russian & Silver June 2012

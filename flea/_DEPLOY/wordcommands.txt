@@ -1,0 +1,38 @@
+sleep[SPLITTER]zzzzzzz 
+wake[SPLITTER]Morning folks... 
+steam[SPLITTER]https://i.imgur.com/1qyHNnZ.png 
+android[SPLITTER]Only the best. 
+sublime[SPLITTER]Sublime>webstorm 
+webstorm[SPLITTER]Sublime>webstorm 
+shadrack[SPLITTER]relax, you only need to hide your daughters and sisters, if they are younger than 13. 
+find[SPLITTER]
+forget[SPLITTER]I might be the size of a flea, but I have the memory of an elephant. I do not forget. 
+sit[SPLITTER]what, u think im a dog?! 
+eat[SPLITTER]chews a piece of ProfMerlin's ear 
+food[SPLITTER]sigh, i wish i could eat, alas no blood available ... 
+isis[SPLITTER]self-destructs quickly 
+loadshedding[SPLITTER]that is what you do in the toilet when its a number two... 
+alot[SPLITTER]http://hyperboleandahalf.blogspot.ca/2010/04/alot-is-better-than-you-at-everything.html 
+moon[SPLITTER]http://moons.wolfen.za.net/2moons/ 
+popcorn[SPLITTER]Passes the popcorn around 
+burn[SPLITTER]http://www.quickmeme.com/img/f8/f8b05f3abfb6687588817c6d35c7bf42f466201783eae7e2098dc7c3141173b5.jpg 
+wrong[SPLITTER]You're doing it wrong 
+innocent[SPLITTER]I am innocent. Honestly. 
+huh[SPLITTER]transmission garbled, please retry 
+sudo[SPLITTER]You are not in the sudoers file. This incident will be reported. 
+wiki[SPLITTER]http://mwiki.jawug 
+banhammer[SPLITTER]http://i.imgur.com/IdEG3XM.gif 
+fire[SPLITTER]http://bit.ly/1IQsuCe 
+funny[SPLITTER]http://i.imgur.com/1XJygxD.jpg 
+megakill[SPLITTER]mega kill! 
+ipam[SPLITTER]Please keep IPAM updated - http://ipam.jawug.org.za (172.16.192.10) 
+screwyouflea[SPLITTER]screwyoutoo! 
+bankdetails[SPLITTER]Payments can be made into the JAWUG bank account: Standard Bank Account no: 427969530 Branch code: 016342 Please send proof of payment to accounts@jawug.org.za. 
+backups[SPLITTER]It's a good thing you've got a robust backup policy in place and can restore from backups though! A lot of people with insufficient experience and bad administrative habits would not be in such a good position. 
+testkit[SPLITTER]http://mwiki.jawug.org.za/index.php/Testkit 
+daffytime[SPLITTER]UTC+11 
+wolfentime[SPLITTER]UTC+4 
+flip[SPLITTER]heads, jip definately heads 
+daffyweather[SPLITTER]http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/sed_bondijunction.jpg 
+wugms[SPLITTER]http://wugms.bwcsystem.net:20080/ 
+toast[SPLITTER]After much deliberation it is our expert opinion that your server is now a heap of useless metal and silicon and should be re-installed. 

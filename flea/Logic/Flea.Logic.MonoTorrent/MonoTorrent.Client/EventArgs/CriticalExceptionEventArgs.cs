@@ -1,0 +1,40 @@
+using System;
+
+namespace MonoTorrent.Client
+{
+    public class CriticalExceptionEventArgs : EventArgs
+    {
+        #region Internals
+
+        private ClientEngine engine;
+        private Exception ex;
+
+
+        public ClientEngine Engine
+        {
+            get { return engine; }
+        }
+
+        public Exception Exception
+        {
+            get { return ex; }
+        }
+
+        #endregion
+
+        #region Constructor
+
+        public CriticalExceptionEventArgs(Exception ex, ClientEngine engine)
+        {
+            if (ex == null)
+                throw new ArgumentNullException("ex");
+            if (engine == null)
+                throw new ArgumentNullException("engine");
+
+            this.engine = engine;
+            this.ex = ex;
+        }
+
+        #endregion
+    }
+}

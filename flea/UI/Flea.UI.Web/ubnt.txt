@@ -1,0 +1,8 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="block/style.css">
+</head>
+<body>
+<b><center>Jawug UBNT links</center></b><br><br>
+<table><tr><th><b>#</b></th><th><a href="ubnt.php?order_by=ip&sorting=asc"><b>IP Address</b></th><th><a href="ubnt.php?order_by=identity&sorting=asc"><b>Identity</b></th><th><a href="ubnt.php?order_by=essid&sorting=asc"><b>SSID</b></th><th><a href="ubnt.php?order_by=wlanOpmode&sorting=asc"><b>Mode</b></th><th><a href="ubnt.php?order_by=plot_location&sorting=asc"><b>Location</b></th><th><a href="ubnt.php?order_by=longitude&sorting=asc"><b>Longitude</b></th><th><a href="ubnt.php?order_by=latitude&sorting=asc"><b>Latitude</b></th><th><a href="ubnt.php?order_by=contact&sorting=asc"><b>Contact</b></th><th><b>Unit Status</b></th><th><b>Link Status</b></th></tr> 
+</table>Designed by Russian July 2013
